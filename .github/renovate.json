@@ -3,7 +3,7 @@
   "extends": [
     ":automergeBranch",
     ":automergeMinor",
-    ":disableDependencyDashboard",
+    ":enableDependencyDashboard",
     ":disableRateLimiting",
     ":ignoreModulesAndTests",
     ":ignoreUnstable",
