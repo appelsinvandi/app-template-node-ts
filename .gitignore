@@ -1,0 +1,27 @@
+# dependencies
+node_modules/
+
+# production
+dist/
+
+# yarn 2+
+.yarn/*
+!.yarn/patches
+!.yarn/plugins
+!.yarn/releases
+!.yarn/sdks
+!.yarn/versions
+
+# vscode
+.vscode/*
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
+!.vscode/*.code-snippets
+
+# os
+.DS_Store
+
+# misc
+.env
