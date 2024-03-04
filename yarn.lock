@@ -347,7 +347,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@typescript-eslint/eslint-plugin@npm:^7.1.0":
+"@typescript-eslint/eslint-plugin@npm:^7.1.1":
   version: 7.1.1
   resolution: "@typescript-eslint/eslint-plugin@npm:7.1.1"
   dependencies:
@@ -372,7 +372,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@typescript-eslint/parser@npm:^7.1.0":
+"@typescript-eslint/parser@npm:^7.1.1":
   version: 7.1.1
   resolution: "@typescript-eslint/parser@npm:7.1.1"
   dependencies:
@@ -579,8 +579,8 @@ __metadata:
     "@total-typescript/ts-reset": "npm:^0.5.1"
     "@tsconfig/node20": "npm:^20.1.2"
     "@types/node": "npm:^20.11.24"
-    "@typescript-eslint/eslint-plugin": "npm:^7.1.0"
-    "@typescript-eslint/parser": "npm:^7.1.0"
+    "@typescript-eslint/eslint-plugin": "npm:^7.1.1"
+    "@typescript-eslint/parser": "npm:^7.1.1"
     eslint: "npm:^8.57.0"
     npm-run-all: "npm:^4.1.5"
     tsx: "npm:^4.7.1"
