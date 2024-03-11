@@ -6,5 +6,9 @@
   {
     "action": "remove",
     "files": [".gitattributes"]
+  },
+  {
+    "action": "remove",
+    "files": [".yarn", ".yarnrc.yml", "yarn.lock"]
   }
 ]
