@@ -10,5 +10,9 @@
   {
     "action": "remove",
     "files": [".yarn", ".yarnrc.yml", "yarn.lock"]
+  },
+  {
+    "action": "remove",
+    "files": ["biome.json"]
   }
 ]
