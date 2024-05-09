@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "private": true,
   "type": "module",
-  "packageManager": "yarn@4.2.0",
+  "packageManager": "yarn@4.2.2",
   "scripts": {
     "start": "tsx src/index.mts",
     "dev": "tsx --watch src/index.mts",
