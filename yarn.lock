@@ -305,7 +305,7 @@ __metadata:
     "@tsconfig/node20": "npm:^20.1.4"
     "@types/node": "npm:^20.12.12"
     npm-run-all: "npm:^4.1.5"
-    tsx: "npm:^4.9.5"
+    tsx: "npm:^4.10.0"
     typescript: "npm:^5.4.5"
   languageName: unknown
   linkType: soft
@@ -913,12 +913,12 @@ __metadata:
   languageName: node
   linkType: hard
 
-"get-tsconfig@npm:^4.7.3":
-  version: 4.7.4
-  resolution: "get-tsconfig@npm:4.7.4"
+"get-tsconfig@npm:^4.7.5":
+  version: 4.7.5
+  resolution: "get-tsconfig@npm:4.7.5"
   dependencies:
     resolve-pkg-maps: "npm:^1.0.0"
-  checksum: 10c0/4bd9ca36aa8b117d7d2ddd57d18fce94444cda9225c8444b2ffa9f19490a1ac77d99089deaf03012945a86e8daed73ec910b33f8830e66df64b44f6f0ebccff1
+  checksum: 10c0/a917dff2ba9ee187c41945736bf9bbab65de31ce5bc1effd76267be483a7340915cff232199406379f26517d2d0a4edcdbcda8cca599c2480a0f2cf1e1de3efa
   languageName: node
   linkType: hard
 
@@ -2071,19 +2071,19 @@ __metadata:
   languageName: node
   linkType: hard
 
-"tsx@npm:^4.9.5":
-  version: 4.10.0
-  resolution: "tsx@npm:4.10.0"
+"tsx@npm:^4.10.0":
+  version: 4.10.5
+  resolution: "tsx@npm:4.10.5"
   dependencies:
     esbuild: "npm:~0.20.2"
     fsevents: "npm:~2.3.3"
-    get-tsconfig: "npm:^4.7.3"
+    get-tsconfig: "npm:^4.7.5"
   dependenciesMeta:
     fsevents:
       optional: true
   bin:
     tsx: dist/cli.mjs
-  checksum: 10c0/55c6c12992d4a50a612407c7a888bace77c42bd611d40c6a512c5d7f7a32430837180a68dab5a0ed4183317b1be93ccebb102ea25642465c5841375e1ba8edf0
+  checksum: 10c0/a9ca576417c52010b12b7ab14023c1dfee458220bf4c11d528f9d462ce739c0a10aff967c5b28092032fc56a5639f043d798bfb00df469e3b263e93ab2c963b1
   languageName: node
   linkType: hard
 
