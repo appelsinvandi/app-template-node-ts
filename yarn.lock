@@ -223,7 +223,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@types/node@npm:^20.14.0":
+"@types/node@npm:^20.14.2":
   version: 20.14.2
   resolution: "@types/node@npm:20.14.2"
   dependencies:
@@ -303,7 +303,7 @@ __metadata:
   dependencies:
     "@total-typescript/ts-reset": "npm:^0.5.1"
     "@tsconfig/node20": "npm:^20.1.4"
-    "@types/node": "npm:^20.14.0"
+    "@types/node": "npm:^20.14.2"
     npm-run-all: "npm:^4.1.5"
     tsx: "npm:^4.11.2"
     typescript: "npm:^5.4.5"
