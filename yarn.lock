@@ -305,7 +305,7 @@ __metadata:
     "@tsconfig/node20": "npm:^20.1.4"
     "@types/node": "npm:^20.14.2"
     npm-run-all: "npm:^4.1.5"
-    tsx: "npm:^4.15.0"
+    tsx: "npm:^4.15.5"
     typescript: "npm:^5.4.5"
   languageName: unknown
   linkType: soft
@@ -2071,7 +2071,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"tsx@npm:^4.15.0":
+"tsx@npm:^4.15.5":
   version: 4.15.5
   resolution: "tsx@npm:4.15.5"
   dependencies:
